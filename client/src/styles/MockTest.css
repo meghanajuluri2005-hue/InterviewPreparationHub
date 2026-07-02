@@ -1,0 +1,31 @@
+.mock {
+  padding: 40px;
+  background: #f4f7fc;
+  min-height: 100vh;
+}
+
+.mock h1 {
+  text-align: center;
+  color: #2563eb;
+  margin-bottom: 30px;
+}
+
+.mock-card {
+  background: white;
+  padding: 25px;
+  max-width: 600px;
+  margin: 20px auto;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 5px 12px rgba(0,0,0,0.15);
+}
+
+.mock-card button {
+  margin-top: 15px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
